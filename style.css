@@ -22,7 +22,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://images.pexels.com/photos/616404/pexels-photo-616404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    url("background-image.jpeg");
   height: 100vh;
   background-position: center;
   background-size: cover;
